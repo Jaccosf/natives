@@ -8,6 +8,9 @@ ns: NETWORK
 Vehicle NET_TO_VEH(int netHandle);
 ```
 
+```
+gets the vehicle id of a network id  
+```
 
 ## Parameters
 * **netHandle**: 
